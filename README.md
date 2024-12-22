@@ -30,41 +30,15 @@
 
 <br><br><br>
 
-
 ### 초음파 센서를 이용한 장애물 감지
 창문이 닫히는 도중 장애물을 감지하면 즉시 작동을 멈추고 창문을 다시 연다.
 장애물 존재 여부를 사용자에게 알리며, 자동 모드에서는 장애물이 사라진 후 환경 정보를 다시 확인하여 창문 제어를 재개한다.
 
-
 <br><br><br>
-
 
 ### 조도 센서를 이용한 블라인드 자동 제어
 실내 조도 상황에 따라 블라인드를 자동으로 올리거나 내린다.
 밝기가 어두운 밤에는 블라인드를 내려 암막 환경을 조성하여 숙면을 돕고, 아침에는 밝아진 실내 환경을 만들어 사용자가 자연스럽게 깨어날 수 있도록 지원한다.
-
-
-<br><br><br>
-
-### 문의 및 신고
-- 이메일 문의 및 신고: 사용자는 이메일을 통해 문의사항이나 신고 내용을 관리자에게 직접 전달할 수 있습니다.
-<img src="https://github.com/user-attachments/assets/cf23c1c8-f344-41e9-acdb-ecc6b2f95320" width="300">
-<img src="https://github.com/user-attachments/assets/1f3d6d11-468a-43b0-b0a6-ec7e028a7b9a" width="300">
-<img src="https://github.com/user-attachments/assets/0ade3a98-f16e-4764-b0f3-4baf5c4d0c2c" width="300">
-
-<br><br><br>
-
-### 편의 기능
-- 찜: 사용자는 마음에 드는 매장을 찜하여, 찜 목록에서 별도로 확인할 수 있습니다.
-- 지도: 매장 위치 정보를 제공하여 사용자가 매장을 쉽게 찾을 수 있도록 돕습니다.
-- 검색: 매장명이나 주소를 검색하여 원하는 매장을 손쉽게 찾을 수 있습니다.
-- QR코드: QR코드를 스캔하여 간편하게 예약 페이지에 접속할 수 있습니다.
-<img src="https://github.com/user-attachments/assets/4b749321-1dd5-48c8-8156-93c5879ad05e" width="300">
-<img src="https://github.com/user-attachments/assets/0912bbe5-4e13-41fa-8f80-ccd9d4f16265" width="300">
-<br>
-<img src="https://github.com/user-attachments/assets/6c2e42c8-c6f4-43dc-abfc-e9f3f1acb139" width="300">
-<img src="https://github.com/user-attachments/assets/b2aacce9-86a0-4a7c-9f46-d6c14ec1b165" width="300">
-<br><br>
 
 ---
 

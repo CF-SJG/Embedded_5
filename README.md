@@ -54,7 +54,10 @@
 
 ## 🏆 전체 시스템 구조
 <img width="435" alt="그림1" src="https://github.com/user-attachments/assets/1151e07b-b13a-4bcc-9b34-713ee3eb345a" />
----
+
+<br>
+
+--- 
 
 ## 👬 팀원 소개
 

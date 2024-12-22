@@ -138,11 +138,13 @@ Worker Thread 1에서 수집된 센서 데이터를 UART 프로토콜을 통해 
 사용자가 블루투스 명령(O, C)으로 창문을 열거나 닫을 수 있다.
 아래 5개의 특정한 작업을 담당하는 스레드를 통해 다중 스레드로 구성하여 병렬작업을 처리한다
 센서 값을 업데이트 하는 동시에 업데이트 되는 센서 값을 읽어와 잘못된 값을 읽거나, 동작이 중단되는 스레드 간 데이터 충돌 및 동시 접근 문제를 방지하기 위해 뮤텍스를 사용한다.
-BluetoothThread 블루투스 명령 수신
-ComUartThread: 센서 데이터 수신
-MotorThread: 창문 모터 제어
-BlindThread: 블라인드 모터 제어
-SpeakerThread: 스피커 알림 처리
+<p>  
+   BluetoothThread 블루투스 명령 수신<br>
+   ComUartThread: 센서 데이터 수신<br>
+   MotorThread: 창문 모터 제어<br>
+   BlindThread: 블라인드 모터 제어<br>
+   SpeakerThread: 스피커 알림 처리<br>
+</p>
 
 <br>
 

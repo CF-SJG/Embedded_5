@@ -1,6 +1,6 @@
 # 스마트창문 - 임베디드시스템(5조)
 --- 
-## [시연 영상](https://drive.google.com/file/d/1Mtc5kd34DYA2gDyHuz0GIipPqfxOz5GU/view) <br>
+## [시연 영상 링크](https://drive.google.com/file/d/1Mtc5kd34DYA2gDyHuz0GIipPqfxOz5GU/view) <br>
 ### 영상 흐름도
 #### 창문 제어
 1. 수동 모드 선택 후 창문 개방한다.

@@ -1,5 +1,15 @@
 # 스마트창문 - 임베디드시스템(5조)
 --- 
+## 👬 팀원 소개
+### 이민규(20200797)
+### 이영정(20200860)
+### 박준수(20200493)
+### 김은진(20220269)
+
+<br>
+
+---
+
 ## [시연 영상 링크](https://drive.google.com/file/d/1Mtc5kd34DYA2gDyHuz0GIipPqfxOz5GU/view) <br>
 ### 영상 흐름도
 #### 창문 제어
@@ -198,76 +208,3 @@ choState: 장애물 감지 상태
 
   
 <br>
-
----
-
-## 👬 팀원 소개
-
-<div>
-  <table>
-    <tr>
-      <th>Profile</th>
-      <th>Role</th>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/combikms">
-          <img src="https://avatars.githubusercontent.com/u/156290648?v=4" width="100" height="80" alt=""/>
-          <br/>
-          <sub><b>강인석</b></sub>
-        </a>
-      </td>
-      <td>
-        - 주요 기능 개발 (예약 및 취소, 업체 등록, 대기열 관리, 찜, 내 정보 등) <br>
-        - FireStore 데이터베이스 설계 <br>
-        - Frontend UI 배치 <br>
-        - WaitFree 기능에 OpenAPI 연동 <br>
-      </td>
-   </tr>
-   <tr>
-      <td align="center">
-        <a href="https://github.com/GitgaJini">
-          <img src="https://avatars.githubusercontent.com/u/112643202?v=4" width="100" height="80" alt=""/>
-          <br/>
-          <sub><b>김은진</b></sub>
-        </a>
-      </td>
-      <td>
-        - 모든 화면 설계 및 디자인 <br>
-        - 네비바/둘러보기/FAQ 페이지 구현 <br>
-        - 아이콘/애니메이션 제작 및 글귀 작성 <br>
-        - 주도, 기능 제안 및 구체화
-      </td>
-   </tr>
-   <tr>
-      <td align="center">
-        <a href="https://github.com/CF-SJG">
-          <img src="https://avatars.githubusercontent.com/u/141010553?v=4" width="100" height="80" alt=""/>
-          <br/>
-          <sub><b>이민규</b></sub>
-        </a>
-      </td>
-      <td>
-        - 주요 기능 개발 (계정 관련 기능, FCM, 신고/문의 기능) <br>
-        - Firebase프로젝트 관리 <br>
-        - 사용자 데이터베이스 관리 및 통합 <br>
-        - 버그 테스트 및 기능 측면 수정
-      </td>
-   </tr>
-     <tr>
-      <td align="center">
-        <a href="https://github.com/dhdheb">
-          <img src="https://avatars.githubusercontent.com/u/144876081?v=4" width="100" height="80" alt=""/>
-          <br/>
-          <sub><b>이영정</b></sub>
-        </a>
-      </td>
-      <td>
-        - 주요 기능 개발: 현재 위치 기반 지도 API 통합, 주소 변환 및 거리 계산 <br>
-        - QR 코드 생성 및 딥 링크 처리: 예약 시스템과 라우팅 <br>
-        - 검색 정렬 및 필터링: 혼잡도/거리순 정렬과 주변 매장 필터링 구현 <br>
-        - UI 및 기능 테스트: UX 개선을 위한 UI 일부 수정과 기능 테스트
-      </td>
-   </tr>
-  </table>
-</div>

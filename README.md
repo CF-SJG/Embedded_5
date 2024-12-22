@@ -173,10 +173,13 @@ choState: 장애물 감지 상태
 잠금(pthread_mutex_lock) : 데이터를 읽거나 쓰기 전에 뮤텍스를 잠가 동시 접근을 방지한다.
 작업 수행: 데이터를 읽거나 수정한다.
 잠금 해제(pthread_mutex_unlock) : 작업 종료 후 뮤텍스를 해제하여 다른 스레드가 접근 가능하도록 한다.
-- 예시
-pthread_mutex_lock(&sensorData.mutex);
-sensorData.isWet = 1;(빗물 감지 상태 업데이트)
-pthread_mutex_unlock(&sensorData.mutex);
+
+<p>
+   예시)<br>
+   pthread_mutex_lock(&sensorData.mutex);<br>
+   sensorData.isWet = 1;(빗물 감지 상태 업데이트)<br>
+   pthread_mutex_unlock(&sensorData.mutex);<br>
+</p>
   
 <br>
 
